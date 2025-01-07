@@ -1,2 +1,3 @@
 # AD-SVM
-Codes for AD-SVM paper.
+
+Codes for AD-SVM paper. Refactoring is in progress!
